@@ -1,15 +1,87 @@
 [
   {
+    "name": "Abhinav Singh",
+    "roll_number": 2612001,
+    "email_id": "abhinavsingh.gscm2026@iimu.ac.in",
+    "course": "GSCM"
+  },
+  {
     "name": "Aditi Chaurasia",
     "roll_number": 2613001,
     "email_id": "aditichaurasia.dem2026@iimu.ac.in",
     "course": "DEM"
   },
   {
+    "name": "Aditya Chatterjee",
+    "roll_number": 2612002,
+    "email_id": "adityachatterjee.gscm2026@iimu.ac.in",
+    "course": "GSCM"
+  },
+  {
+    "name": "Aditya Narayan Shukla",
+    "roll_number": 2612003,
+    "email_id": "adityanarayanshukla.gscm2026@iimu.ac.in",
+    "course": "GSCM"
+  },
+  {
+    "name": "Aindrila Banerjee",
+    "roll_number": 2612004,
+    "email_id": "aindrilabanerjee.gscm2026@iimu.ac.in",
+    "course": "GSCM"
+  },
+  {
+    "name": "Ajay Shetty",
+    "roll_number": 2612005,
+    "email_id": "ajayshetty.gscm2026@iimu.ac.in",
+    "course": "GSCM"
+  },
+  {
+    "name": "Akash Das",
+    "roll_number": 2612006,
+    "email_id": "akashdas.gscm2026@iimu.ac.in",
+    "course": "GSCM"
+  },
+  {
+    "name": "Akshay Shirsath",
+    "roll_number": 2612007,
+    "email_id": "akshayshirsath.gscm2026@iimu.ac.in",
+    "course": "GSCM"
+  },
+  {
     "name": "Amalekh Santhosh",
     "roll_number": 2613002,
     "email_id": "amalekhsanthosh.dem2026@iimu.ac.in",
     "course": "DEM"
+  },
+  {
+    "name": "Aman Mishra",
+    "roll_number": 2612008,
+    "email_id": "amanmishra.gscm2026@iimu.ac.in",
+    "course": "GSCM"
+  },
+  {
+    "name": "Amandeep Singh",
+    "roll_number": 2612009,
+    "email_id": "amandeepsingh.gscm2026@iimu.ac.in",
+    "course": "GSCM"
+  },
+  {
+    "name": "Amit Kumar Malviya",
+    "roll_number": 2612010,
+    "email_id": "amitkumarmalviya.gscm2026@iimu.ac.in",
+    "course": "GSCM"
+  },
+  {
+    "name": "Amit Mishra",
+    "roll_number": 2612011,
+    "email_id": "amitmishra.gscm2026@iimu.ac.in",
+    "course": "GSCM"
+  },
+  {
+    "name": "Amit Parmar",
+    "roll_number": 2612012,
+    "email_id": "amitparmar.gscm2026@iimu.ac.in",
+    "course": "GSCM"
   },
   {
     "name": "Amrit Dutta",
@@ -42,6 +114,18 @@
     "course": "DEM"
   },
   {
+    "name": "Ankit Kumar",
+    "roll_number": 2612013,
+    "email_id": "ankitkumar.gscm2026@iimu.ac.in",
+    "course": "GSCM"
+  },
+  {
+    "name": "Ankita Karkera",
+    "roll_number": 2612014,
+    "email_id": "ankitakarkera.gscm2026@iimu.ac.in",
+    "course": "GSCM"
+  },
+  {
     "name": "Anubhav Mishra",
     "roll_number": 2613008,
     "email_id": "anubhavmishra.dem2026@iimu.ac.in",
@@ -60,10 +144,22 @@
     "course": "DEM"
   },
   {
+    "name": "Arpan Dwivedi",
+    "roll_number": 2612015,
+    "email_id": "arpandwivedi.gscm2026@iimu.ac.in",
+    "course": "GSCM"
+  },
+  {
     "name": "Ashish Ranjan",
     "roll_number": 2613011,
     "email_id": "ashishranjan.dem2026@iimu.ac.in",
     "course": "DEM"
+  },
+  {
+    "name": "Athak Sahni",
+    "roll_number": 2612016,
+    "email_id": "athaksahni.gscm2026@iimu.ac.in",
+    "course": "GSCM"
   },
   {
     "name": "Avik Sinha",
@@ -72,10 +168,40 @@
     "course": "DEM"
   },
   {
+    "name": "Avinash Seeram",
+    "roll_number": 2612017,
+    "email_id": "avinashseeram.gscm2026@iimu.ac.in",
+    "course": "GSCM"
+  },
+  {
     "name": "B Vinay Rao",
     "roll_number": 2613013,
     "email_id": "bvinayrao.dem2026@iimu.ac.in",
     "course": "DEM"
+  },
+  {
+    "name": "Bhavy Arora",
+    "roll_number": 2612018,
+    "email_id": "bhavyarora.gscm2026@iimu.ac.in",
+    "course": "GSCM"
+  },
+  {
+    "name": "Brahmjot Singh",
+    "roll_number": 2612019,
+    "email_id": "brahmjotsingh.gscm2026@iimu.ac.in",
+    "course": "GSCM"
+  },
+  {
+    "name": "C H Manisha",
+    "roll_number": 2612020,
+    "email_id": "chmanisha.gscm2026@iimu.ac.in",
+    "course": "GSCM"
+  },
+  {
+    "name": "Devang Pirta",
+    "roll_number": 2612021,
+    "email_id": "devangpirta.gscm2026@iimu.ac.in",
+    "course": "GSCM"
   },
   {
     "name": "Dhyeykumar Rathod",
@@ -108,6 +234,18 @@
     "course": "DEM"
   },
   {
+    "name": "Harsh Pandey",
+    "roll_number": 2612022,
+    "email_id": "harshpandey.gscm2026@iimu.ac.in",
+    "course": "GSCM"
+  },
+  {
+    "name": "Harshavardhan Raghunath",
+    "roll_number": 2612023,
+    "email_id": "harshavardhanraghunath.gscm2026@iimu.ac.in",
+    "course": "GSCM"
+  },
+  {
     "name": "Harshita Tiwari",
     "roll_number": 2613020,
     "email_id": "harshitatiwari.dem2026@iimu.ac.in",
@@ -118,6 +256,42 @@
     "roll_number": 2613021,
     "email_id": "himanshisirwani.dem2026@iimu.ac.in",
     "course": "DEM"
+  },
+  {
+    "name": "Ishaan Nahar",
+    "roll_number": 2612024,
+    "email_id": "ishaannahar.gscm2026@iimu.ac.in",
+    "course": "GSCM"
+  },
+  {
+    "name": "Ishita Bhargava",
+    "roll_number": 2612025,
+    "email_id": "ishitabhargava.gscm2026@iimu.ac.in",
+    "course": "GSCM"
+  },
+  {
+    "name": "Jacob George Kattookaren",
+    "roll_number": 2612026,
+    "email_id": "jacobgeorgekattookaren.gscm2026@iimu.ac.in",
+    "course": "GSCM"
+  },
+  {
+    "name": "K Ranabir Rahaman",
+    "roll_number": 2612027,
+    "email_id": "kranabirrahaman.gscm2026@iimu.ac.in",
+    "course": "GSCM"
+  },
+  {
+    "name": "Karan Hingrajia",
+    "roll_number": 2612028,
+    "email_id": "karanhingrajia.gscm2026@iimu.ac.in",
+    "course": "GSCM"
+  },
+  {
+    "name": "Kartik Chhabra",
+    "roll_number": 2612029,
+    "email_id": "kartikchhabra.gscm2026@iimu.ac.in",
+    "course": "GSCM"
   },
   {
     "name": "Kevin Mathews",
@@ -138,10 +312,34 @@
     "course": "DEM"
   },
   {
+    "name": "Malabika Bardhan",
+    "roll_number": 2612030,
+    "email_id": "malabikabardhan.gscm2026@iimu.ac.in",
+    "course": "GSCM"
+  },
+  {
+    "name": "Manasvini Bansal",
+    "roll_number": 2612031,
+    "email_id": "manasvinibansal.gscm2026@iimu.ac.in",
+    "course": "GSCM"
+  },
+  {
     "name": "Marikrishnan M",
     "roll_number": 2613025,
     "email_id": "marikrishnanm.dem2026@iimu.ac.in",
     "course": "DEM"
+  },
+  {
+    "name": "Mayank Tripathi",
+    "roll_number": 2612032,
+    "email_id": "mayanktripathi.gscm2026@iimu.ac.in",
+    "course": "GSCM"
+  },
+  {
+    "name": "Mihir Raval",
+    "roll_number": 2612033,
+    "email_id": "mihirraval.gscm2026@iimu.ac.in",
+    "course": "GSCM"
   },
   {
     "name": "Miti Mehta",
@@ -156,6 +354,18 @@
     "course": "DEM"
   },
   {
+    "name": "Naivedya Jain",
+    "roll_number": 2612034,
+    "email_id": "naivedyajain.gscm2026@iimu.ac.in",
+    "course": "GSCM"
+  },
+  {
+    "name": "Nandhan V",
+    "roll_number": 2612035,
+    "email_id": "nandhanv.gscm2026@iimu.ac.in",
+    "course": "GSCM"
+  },
+  {
     "name": "Neha Ranjeet Sah",
     "roll_number": 2613028,
     "email_id": "neharanjeetsah.dem2026@iimu.ac.in",
@@ -166,6 +376,18 @@
     "roll_number": 2613029,
     "email_id": "nishantsood.dem2026@iimu.ac.in",
     "course": "DEM"
+  },
+  {
+    "name": "Nitesh Jha",
+    "roll_number": 2612036,
+    "email_id": "niteshjha.gscm2026@iimu.ac.in",
+    "course": "GSCM"
+  },
+  {
+    "name": "Nitish Kumar",
+    "roll_number": 2612037,
+    "email_id": "nitishkumar.gscm2026@iimu.ac.in",
+    "course": "GSCM"
   },
   {
     "name": "P Sai Krishna",
@@ -180,6 +402,18 @@
     "course": "DEM"
   },
   {
+    "name": "Prajakta Mundhe",
+    "roll_number": 2612038,
+    "email_id": "prajaktamundhe.gscm2026@iimu.ac.in",
+    "course": "GSCM"
+  },
+  {
+    "name": "Pranav J",
+    "roll_number": 2612039,
+    "email_id": "pranavj.gscm2026@iimu.ac.in",
+    "course": "GSCM"
+  },
+  {
     "name": "Pranav Nahar",
     "roll_number": 2613032,
     "email_id": "pranavnahar.dem2026@iimu.ac.in",
@@ -190,6 +424,12 @@
     "roll_number": 2613033,
     "email_id": "pranavpawar.dem2026@iimu.ac.in",
     "course": "DEM"
+  },
+  {
+    "name": "Pranay Agrawal",
+    "roll_number": 2612040,
+    "email_id": "pranayagrawal.gscm2026@iimu.ac.in",
+    "course": "GSCM"
   },
   {
     "name": "Preeti Sehrawat",
@@ -210,6 +450,18 @@
     "course": "DEM"
   },
   {
+    "name": "Raghuram Madathil",
+    "roll_number": 2612041,
+    "email_id": "raghurammadathil.gscm2026@iimu.ac.in",
+    "course": "GSCM"
+  },
+  {
+    "name": "Rahul C K",
+    "roll_number": 2612042,
+    "email_id": "rahulck.gscm2026@iimu.ac.in",
+    "course": "GSCM"
+  },
+  {
     "name": "Rajkumar S P",
     "roll_number": 2613037,
     "email_id": "rajkumarsp.dem2026@iimu.ac.in",
@@ -228,6 +480,30 @@
     "course": "DEM"
   },
   {
+    "name": "Rupak Dey",
+    "roll_number": 2612043,
+    "email_id": "rupakdey.gscm2026@iimu.ac.in",
+    "course": "GSCM"
+  },
+  {
+    "name": "Rupesh Kotkar",
+    "roll_number": 2612044,
+    "email_id": "rupeshkotkar.gscm2026@iimu.ac.in",
+    "course": "GSCM"
+  },
+  {
+    "name": "S Srikant",
+    "roll_number": 2612045,
+    "email_id": "ssrikant.gscm2026@iimu.ac.in",
+    "course": "GSCM"
+  },
+  {
+    "name": "Sahil Choraria",
+    "roll_number": 2612046,
+    "email_id": "sahilchoraria.gscm2026@iimu.ac.in",
+    "course": "GSCM"
+  },
+  {
     "name": "Saimanasa Chadalavada",
     "roll_number": 2613040,
     "email_id": "saimanasachadalavada.dem2026@iimu.ac.in",
@@ -240,10 +516,46 @@
     "course": "DEM"
   },
   {
+    "name": "Satyabrata Biswal",
+    "roll_number": 2612047,
+    "email_id": "satyabratabiswal.gscm2026@iimu.ac.in",
+    "course": "GSCM"
+  },
+  {
+    "name": "Satyajeet Majumdar",
+    "roll_number": 2612048,
+    "email_id": "satyajeetmajumdar.gscm2026@iimu.ac.in",
+    "course": "GSCM"
+  },
+  {
+    "name": "Satyam Srivastava",
+    "roll_number": 2612049,
+    "email_id": "satyamsrivastava.gscm2026@iimu.ac.in",
+    "course": "GSCM"
+  },
+  {
+    "name": "Satyarth Gautam",
+    "roll_number": 2612050,
+    "email_id": "satyarthgautam.gscm2026@iimu.ac.in",
+    "course": "GSCM"
+  },
+  {
     "name": "Shahal Abbas V",
     "roll_number": 2613042,
     "email_id": "shahalabbasv.dem2026@iimu.ac.in",
     "course": "DEM"
+  },
+  {
+    "name": "Shashank Rustagi",
+    "roll_number": 2612051,
+    "email_id": "shashankrustagi.gscm2026@iimu.ac.in",
+    "course": "GSCM"
+  },
+  {
+    "name": "Shaunak Tapaskar",
+    "roll_number": 2612052,
+    "email_id": "shaunaktapaskar.gscm2026@iimu.ac.in",
+    "course": "GSCM"
   },
   {
     "name": "Shaurya Singh Jadaun",
@@ -258,16 +570,40 @@
     "course": "DEM"
   },
   {
+    "name": "Shivam Shetty",
+    "roll_number": 2612053,
+    "email_id": "shivamshetty.gscm2026@iimu.ac.in",
+    "course": "GSCM"
+  },
+  {
     "name": "Shivanshu Chaudhary",
     "roll_number": 2613045,
     "email_id": "shivanshuchaudhary.dem2026@iimu.ac.in",
     "course": "DEM"
   },
   {
+    "name": "Shivendra Yadav",
+    "roll_number": 2612054,
+    "email_id": "shivendrayadav.gscm2026@iimu.ac.in",
+    "course": "GSCM"
+  },
+  {
+    "name": "Shubham Dash",
+    "roll_number": 2612055,
+    "email_id": "shubhamdash.gscm2026@iimu.ac.in",
+    "course": "GSCM"
+  },
+  {
     "name": "Shubhi Singh",
     "roll_number": 2613046,
     "email_id": "shubhisingh.dem2026@iimu.ac.in",
     "course": "DEM"
+  },
+  {
+    "name": "Sibaji Dey",
+    "roll_number": 2612056,
+    "email_id": "sibajidey.gscm2026@iimu.ac.in",
+    "course": "GSCM"
   },
   {
     "name": "Siddhant Jain",
@@ -282,10 +618,22 @@
     "course": "DEM"
   },
   {
+    "name": "Siddharth Kumar Jha",
+    "roll_number": 2612057,
+    "email_id": "siddharthkumarjha.gscm2026@iimu.ac.in",
+    "course": "GSCM"
+  },
+  {
     "name": "Siddharth Prathap",
     "roll_number": 2613049,
     "email_id": "siddharthprathap.dem2026@iimu.ac.in",
     "course": "DEM"
+  },
+  {
+    "name": "Smruti More",
+    "roll_number": 2612058,
+    "email_id": "smrutimore.gscm2026@iimu.ac.in",
+    "course": "GSCM"
   },
   {
     "name": "Somasurya Nanda",
@@ -300,16 +648,34 @@
     "course": "DEM"
   },
   {
+    "name": "Soumye Gupta",
+    "roll_number": 2612059,
+    "email_id": "soumyegupta.gscm2026@iimu.ac.in",
+    "course": "GSCM"
+  },
+  {
     "name": "Souronil Pal",
     "roll_number": 2613052,
     "email_id": "souronilpal.dem2026@iimu.ac.in",
     "course": "DEM"
   },
   {
+    "name": "Sri Kavya Dungala",
+    "roll_number": 2612060,
+    "email_id": "srikavyadungala.gscm2026@iimu.ac.in",
+    "course": "GSCM"
+  },
+  {
     "name": "Subhapriya Sen",
     "roll_number": 2613053,
     "email_id": "subhapriyasen.dem2026@iimu.ac.in",
     "course": "DEM"
+  },
+  {
+    "name": "Subhradip Mukherjee",
+    "roll_number": 2612061,
+    "email_id": "subhradipmukherjee.gscm2026@iimu.ac.in",
+    "course": "GSCM"
   },
   {
     "name": "Sudarsan S",
@@ -324,10 +690,28 @@
     "course": "DEM"
   },
   {
+    "name": "Sumeet Turkar",
+    "roll_number": 2612062,
+    "email_id": "sumeetturkar.gscm2026@iimu.ac.in",
+    "course": "GSCM"
+  },
+  {
+    "name": "Swetha Kedarisetty",
+    "roll_number": 2612063,
+    "email_id": "swethakedarisetty.gscm2026@iimu.ac.in",
+    "course": "GSCM"
+  },
+  {
     "name": "Tejas Pathrikar",
     "roll_number": 2613056,
     "email_id": "tejaspathrikar.dem2026@iimu.ac.in",
     "course": "DEM"
+  },
+  {
+    "name": "Udbhav Anand",
+    "roll_number": 2612064,
+    "email_id": "udbhavanand.gscm2026@iimu.ac.in",
+    "course": "GSCM"
   },
   {
     "name": "Utkarsh Tripathi",
@@ -346,6 +730,12 @@
     "roll_number": 2613059,
     "email_id": "vasudevmishra.dem2026@iimu.ac.in",
     "course": "DEM"
+  },
+  {
+    "name": "Velpuri Avinash Babu",
+    "roll_number": 2612065,
+    "email_id": "velpuriavinashbabu.gscm2026@iimu.ac.in",
+    "course": "GSCM"
   },
   {
     "name": "Vibhu Verma",
